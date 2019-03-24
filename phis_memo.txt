@@ -1,0 +1,9 @@
+conda install -c kalefranz tomcat
+conda install -c anaconda maven
+conda install -c anaconda mongodb 
+conda install -c anaconda postgresql 
+conda install -c anaconda mongodb
+conda install -c conda-forge postgis
+
+
+https://github.com/OpenSILEX/opensilex-phis
